@@ -1,6 +1,8 @@
 # MataBank Banking Website
 
-> Full-stack demo banking website with customer, employee, and administrator workflows, built for **COMP 380: Software Engineering**.
+> Full-stack demo banking website with customer, employee, and administrator workflows, wallet management, transactions, and spending analytics.
+
+> COMP 380: Software Engineering university project.
 
 ![MataBank Login](screenshots/login.png)
 
