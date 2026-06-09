@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "myappuser",
+    "password": "your_mysql_password",
+    "database": "banking_app",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "myappuser",
+    "password": "your_mysql_password",
+    "database": "banking_app_test",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "myappuser",
+    "password": "your_mysql_password",
+    "database": "banking_app_prod",
+    "host": "localhost",
+    "dialect": "mysql"
+  }
+}

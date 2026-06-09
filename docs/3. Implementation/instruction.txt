@@ -1,0 +1,31 @@
+1) Open Visual Studio Code, click on File -> Open Folder... -> choose banking-app
+
+2) Download MySQL Community Server for our database
+ https://dev.mysql.com/downloads/mysql/
+
+in "Accounts and Roles" section, click on "Add User"
+
+Username: myappuser
+Password: aaaaaaaa
+
+Add same for MySQL Root Password (aaaaaaaa)
+
+3) Download MySQL Workbench 8.0.42
+https://dev.mysql.com/downloads/workbench/
+
+Enter the MySQL Workbench and click on Local instance MySQL91
+In Query 1, copy and paste the text that is below and then click on Query option and click on "Execute (All or Selection)"
+
+CREATE DATABASE IF NOT EXISTS banking_app;
+CREATE USER 'myappuser'@'localhost' IDENTIFIED BY 'aaaaaaaa';
+GRANT ALL PRIVILEGES ON banking_app.* TO 'myappuser'@'localhost';
+FLUSH PRIVILEGES;
+
+4) In Command Prompt, install the required npm packages in the banking-app\backend
+
+npm install sequelize mysql2
+npm install jsonwebtoken
+
+5) In Command Prompt, install the required npm packages in the banking-app\backend
+
+node server.js
