@@ -20,7 +20,7 @@ This project was designed as an educational/demo banking system, not a productio
 
 - **Course:** COMP 380: Software Engineering
 - **Project:** MataBank Banking Website
-- **Type:** University group project
+- **Type:** University course project
 - **Project Timeline:** January 2025 – May 2025
 - **Focus:** Requirements analysis, system design, implementation, verification, validation, and project management
 
@@ -412,14 +412,9 @@ Before any production-style use, the project would require major security improv
 
 ---
 
-## Team and Contributions
+## Project Context and Contributions
 
-This was a COMP 380 Software Engineering group project by:
-
-- Lernik Avetisyan
-- Gus Axelson
-- Lance Jimenez
-- Anthony Taylor
+This was a COMP 380 Software Engineering course project.
 
 Lernik Avetisyan was responsible for the main implementation, backend/frontend integration, authentication and session logic, transaction workflows, testing/fixes, project documentation, and final demo support.
 
