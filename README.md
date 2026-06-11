@@ -420,7 +420,7 @@ This was a COMP 380 Software Engineering group project by:
 - Lance Jimenez
 - Anthony Taylor
 
-Lernik Avetisyan contributed heavily to the implementation, backend/frontend integration, authentication and session logic, transaction workflows, testing/fixes, project documentation, and final demo support.
+Lernik Avetisyan was responsible for the main implementation, backend/frontend integration, authentication and session logic, transaction workflows, testing/fixes, project documentation, and final demo support.
 
 ---
 
@@ -440,6 +440,10 @@ Possible improvements include:
 
 ---
 
-## License
+## License, Usage, and Academic Integrity Notice
 
-This project is provided for educational and portfolio purposes.
+Copyright (c) 2026 Lernik Avetisyan. All rights reserved.
+
+This project is publicly available for educational review, portfolio review, and demonstration purposes only. Viewing or accessing this repository does not grant permission to copy, modify, distribute, publish, submit, or use this project, in whole or in part, without prior written approval from the author.
+
+Copying, reusing, or submitting any part of this project for academic coursework, personal projects, commercial purposes, or claiming it as someone else's work is strictly prohibited.
